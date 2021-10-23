@@ -1,2 +1,2 @@
-# Microsservicos_NodeJS
- Código desenvolvido na aula de Sistemas Distruídos
+# Microsservicos
+ Código desenvolvido durante aula de Sistemas Distruídos.
